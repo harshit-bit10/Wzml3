@@ -37,6 +37,7 @@ qbittorrent-api
 requests
 speedtest-cli
 telegraph
+pytz
 tenacity
 tgcrypto
 uvloop
